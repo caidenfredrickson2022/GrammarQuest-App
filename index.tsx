@@ -129,7 +129,7 @@ const HomePage: React.FC<{ setPage: (page: string) => void }> = ({ setPage }) =>
         ))}
       </div>
       <div className="home-footer">
-        If you have a suggestion, Please <a href="https://classroom.google.com/c/NzYxMDc4MTU5NjU3/p/ODE2NjQ4ODU1MjA2/details" target="_blank" rel="noopener noreferrer">Add A Class Comment!</a>
+        If you have a suggestion, Please <a href="https://classroom.google.com/c/NzYxMDc4MTU5NjU3/p/ODA0OTA5MzI1MTc0/details" target="_blank" rel="noopener noreferrer">Add A Class Comment!</a>
       </div>
     </div>
   );
